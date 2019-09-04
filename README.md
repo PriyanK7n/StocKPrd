@@ -1,8 +1,8 @@
 # GoogleStocKPrice Prediction specific Stock Price Prediction problem, 
- we are  interested in the directions taken by our predictions, rather than the closeness of their values to the real stock price. 
- We cech our predictions follow the same directions as the real stock price and we don’t really care whether our predictions are close the real stock price. 
+ I am   interested in the directions taken by our predictions, rather than the closeness of their values to the real stock price. 
+ so to check my predictions follow the same directions as the real stock price and not  really care whether my  predictions are close the real stock price. 
  The predictions could indeed be close but often taking the opposite direction from the real stock price.
-  improve the RNN model:
+ steps to  improve this RNN model:
 
 Getting more training data: we trained our model on the past 5 years of the Google Stock Price but it would be even better to train it on the past 10 years.
 Increasing the number of timesteps: the model remembered the stock prices from the 60 previous financial days to predict the stock price of the next day. That’s because we chose a number of 60 timesteps (3 months). You could try to increase the number of timesteps, by choosing for example 120 timesteps (6 months).
