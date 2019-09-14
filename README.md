@@ -1,5 +1,5 @@
-# GoogleStocKPrice Prediction specific Stock Price Prediction problem, 
- I am   interested in the directions taken by our predictions, rather than the closeness of their values to the real stock price. 
+# GoogleStocK Stock Price Prediction  problem, 
+ ####I am   interested in the directions taken by our predictions, rather than the closeness of their values to the real stock price. 
  so to check my predictions follow the same directions as the real stock price and not  really care whether my  predictions are close the real stock price. 
  The predictions could indeed be close but often taking the opposite direction from the real stock price.
  steps to  improve this RNN model:
