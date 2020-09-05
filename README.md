@@ -2,14 +2,17 @@
 
  <img src="icon.png" align="right" />
 
-## Google Stock Price Prediction  problem [![Stock](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
+# Google Stock Price Prediction  problem [![Stock](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
 > My Plan Of Action
+
 
 ##I am   interested in the directions taken by our predictions, rather than the closeness of their values to the real stock price. 
  
  - [Check My Predictions] - I  follow the same directions as the real stock price and not  really care whether my  predictions are close the real stock price. 
  The predictions could indeed be close but often taking the opposite direction from the real stock price.
  
+
+
 ##Steps to  improve this RNN model
 
 -[Getting more training data]: we trained our model on the past 5 years of the Google Stock Price but it would be even better to train it on the past 10 years.
